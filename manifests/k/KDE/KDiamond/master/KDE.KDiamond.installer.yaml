@@ -9,14 +9,14 @@ ProductCode: kdiamond
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kdiamond/master/windows/kdiamond-master-749-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: D8026FCFE4963EA07D41314BB8BC1DA730A673258923DD382D602708B8D4C8E9
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kdiamond/master/windows/kdiamond-master-772-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 9C60E4A8689F413C0E3D0921DB6776818FAB9E868DAD402CB30B177EF9E39243
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kdiamond/master/windows/kdiamond-master-749-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: D8026FCFE4963EA07D41314BB8BC1DA730A673258923DD382D602708B8D4C8E9
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kdiamond/master/windows/kdiamond-master-772-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 9C60E4A8689F413C0E3D0921DB6776818FAB9E868DAD402CB30B177EF9E39243
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
