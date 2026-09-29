@@ -6,17 +6,18 @@ PackageVersion: master
 InstallerType: nullsoft
 UpgradeBehavior: install
 ProductCode: knetwalk
+ReleaseDate: 2026-09-24
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/knetwalk/master/windows/knetwalk-master-822-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: D3FFB4468BF0B636B1A1A48CB762F518FFB049401D8861CF8995388CD022E06F
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/knetwalk/master/windows/knetwalk-master-893-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 8DB6EF26708E9A733819C64EFB5AE109D701DB82FE145633D503CD9114121FEF
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/knetwalk/master/windows/knetwalk-master-822-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: D3FFB4468BF0B636B1A1A48CB762F518FFB049401D8861CF8995388CD022E06F
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/knetwalk/master/windows/knetwalk-master-893-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 8DB6EF26708E9A733819C64EFB5AE109D701DB82FE145633D503CD9114121FEF
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
